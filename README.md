@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torakaou
 - 👀 I’m interested in Backend Programming, Databases and Data Analysis 
-- 🌱 I’m currently learning C#, Python, Azure and Docker
+- 🌱 I’m currently learning C#, C++, Python, Azure and Docker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maximilian-steindl-a71050178/)
 
 <!---
